@@ -129,7 +129,7 @@ pyserial==3.5
 
 ---
 
-## ⚙️ Configuración
+## Configuración
 
 Edita `config/radar_config.py` para ajustar parámetros:
 
@@ -358,7 +358,7 @@ El sistema genera una ventana con 6 gráficas:
 
 ---
 
-## 🐛 Troubleshooting
+## Troubleshooting
 
 ### Error: "No se pudo abrir COM3"
 
