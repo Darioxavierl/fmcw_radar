@@ -271,7 +271,7 @@ v = (f_down - f_up)* c / (4 * f)
 **Sentido:**
 ```
 f_down > f_up  → objeto acercándose
-f_down < f_up> → objeto alejándose
+f_down < f_up  → objeto alejándose
 ```
 
 ### Protocolo Serial
