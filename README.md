@@ -266,10 +266,6 @@ donde K = B/T (tasa de cambio de frecuencia)
 **Velocidad:**
 ```
 v = (f_down - f_up)* c / (4 * f)
-
-v < 0  → objeto acercándose
-v > 0  → objeto alejándose
-|v| < threshold → estático
 ```
 
 **Sentido:**
